@@ -1,0 +1,5 @@
+list = [0,1,2,3,4]
+
+new_list = [item for item in list]
+
+print(new_list)
